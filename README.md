@@ -1,11 +1,9 @@
-# meals_app
-
-![Home Screen](/photos/HomeScreen.png)
+# Meal Preparation App
+Show a selection of meals based on season and type, 
 ## Home Screen
-
-![Meal Selection Screen](/photos/MealDetailScreen.png)
+![Home Screen](/photos/HomeScreen.png)
 ## Meal Selection Screen
-
-![Meal Detail Screen](/photos/MealSelectionScreen.png)
+![Meal Selection Screen](/photos/MealDetailScreen.png)
 ## Meal Detail Screen
+![Meal Detail Screen](/photos/MealSelectionScreen.png)
 
